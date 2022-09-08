@@ -39,7 +39,7 @@ let mobiles = {
     },
     S22: {
       Name: "Samsung",
-      Model: "Galaxy Note 5",
+      Model: "Galaxy S22",
       Ram: "8 GB",
       Rom: "128 GB",
       Price: "$799",
@@ -78,14 +78,14 @@ let mobiles = {
     },
     Pixel7: {
       Name: "Google",
-      Model: "Galaxy Note 5",
+      Model: "Pixel 7",
       Ram: "8 GB",
       Rom: "128 GB",
       Price: "$400",
     },
     Pixel8: {
       Name: "Google",
-      Model: "Galaxy Note 5",
+      Model: "Pixel 8",
       Ram: "8 GB",
       Rom: "256 GB",
       Price: "$600",
